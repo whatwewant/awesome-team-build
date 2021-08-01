@@ -131,7 +131,7 @@
 * [Mixpanel](https://mixpanel.com/) - Powerful, self-serve product analytics to help you convert, engage, and retain more users
 * [Google Analysis](https://analytics.google.com/) - lets you measure your advertising ROI as well as track your Flash, video, and social networking sites and applications
 * [GrowingIO](https://www.growingio.com/) - 一站式数据增长引擎整体方案服务商，数据+智能+营销，赋能商业决策，实现业绩增长
-* [神策数据](https://www.sensorsdata.cn/auto) - 大数据分析和营销科技服务商，全渠道的数据采集，全域用户 ID 打通，全场景多维度数据分析，全通道的精准用户触达，助力企业实现全流程营销数字化
+* [神策数据](https://www.sensorsdata.cn/auto) - 大数据分析和营销科技服务商，全场景多维度数据分析，全通道的精准用户触达，助力企业实现全流程营销数字化
 * [Tableau](https://www.tableau.com/) - visual analytics software for business intelligence. See and understand any data with Tableau
 
 ### 客户关系管理
