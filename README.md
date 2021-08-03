@@ -66,6 +66,7 @@
 * [Notion](https://www.notion.so/) - All-in-one workspace
 
 ## 项目协作
+* [Trello](https://trello.com/) - Trello helps teams move work forward
 * [Worktile](https://worktile.com/) - 企业级项目协作与目标管理工具，帮助您连接整个公司，连接任务、沟通、文档等工作场景
 * [PingCode](https://pingcode.com/) - 简单易用的新一代研发管理平台，让研发管理自动化、数据化、智能化，帮助企业提升研发效能
 * [Jira](https://www.atlassian.com/software/jira) - The #1 software development tool used by agile teams
