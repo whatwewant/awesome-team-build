@@ -30,7 +30,7 @@
 * [Slack](https://slack.com/)
 * [飞书](https://www.feishu.cn/) - 一站式无缝办公协作，团队上下对齐目标，全面激活组织和个人
 * [企业微信](https://work.weixin.qq.com/) - 让每个企业都有自己的微信
-* [钉钉](https://www.dingtalk.com/)
+* [钉钉](https://www.dingtalk.com/) - 工作简单高效更安全，教育更简单成长更快乐
 * [Discord](https://discord.com/) - A place that makes it easy to talk every day and hang out more often
 
 ### 远程会议
@@ -58,12 +58,12 @@
 * [Notion](https://www.notion.so/) - All-in-one workspace
 
 ## 项目协作
-* [Worktile](https://worktile.com/)
-* [PingCode](https://pingcode.com/)
-* [Jira](https://www.atlassian.com/software/jira)
-* [Conference](https://www.atlassian.com/software/confluence)
-* [Teambition](https://www.teambition.com/)
-* [Ones](https://ones.ai/)
+* [Worktile](https://worktile.com/) - 企业级项目协作与目标管理工具，帮助您连接整个公司，连接任务、沟通、文档等工作场景
+* [PingCode](https://pingcode.com/) - 简单易用的新一代研发管理平台，让研发管理自动化、数据化、智能化，帮助企业提升研发效能
+* [Jira](https://www.atlassian.com/software/jira) - The #1 software development tool used by agile teams
+* [Conference](https://www.atlassian.com/software/confluence) - Your remote-friendly team workspace where knowledge and collaboration meet
+* [Teambition](https://www.teambition.com/) - 轻松记录要做的事，并与伙伴实时同步进展
+* [Ones](https://ones.ai/) - 企业级研发管理工具
 
 ## 开发模式
 * 敏捷开发
@@ -75,28 +75,28 @@
 ## 产品需求
 
 ### 需求文档
-* [语雀](https://yuque.com/)
-* [石墨文档](https://shimo.im/)
+* [语雀](https://yuque.com/) - 语雀提供专业的产品功能矩阵，服务各类知识创作，助力高效团队协同
+* [石墨文档](https://shimo.im/) - 全新一代云端 Office，面向未来的办公软件
 * [Notion](https://www.notion.so/) - All-in-one workspace
 
 ### 产品原型
-* [墨刀](https://modao.cc)
-* [摹客](https://www.mockplus.cn/)
-* [Xiaopiu](https://www.xiaopiu.com/)
-* [Axure RP](https://www.axure.com)
+* [Xiaopiu](https://www.xiaopiu.com/) - 产品原型设计与团队实时协作平台
+* [墨刀](https://modao.cc) - 在线一体化，产品设计协作平台
+* [摹客](https://www.mockplus.cn/) - 全流程协作、原型设计、设计规范，摹客来解决
+* [Axure RP](https://www.axure.com) - The only UX tool that gives UX professionals the power to build realistic, functional prototypes
 
 ## 设计协作
 
 ### 设计协同
-* [Figma](https://www.figma.com/)
-* [Ziplin](https://zeplin.io/)
-* [Sketch](https://www.sketch.com/)
-* [蓝湖](https://lanhuapp.com/)
+* [Figma](https://www.figma.com/) - Connects everyone in the design process so teams can deliver better products, faster
+* [Ziplin](https://zeplin.io/) - Deliver on the promise of design
+* [Sketch](https://www.sketch.com/) - The home for your entire collaborative design process
+* [蓝湖](https://lanhuapp.com/) - 高效的产品设计协作平台，无缝衔接产品、设计、研发流程
 
 ### 设计工具
-* [Figma](https://www.figma.com/)
-* [Ziplin](https://zeplin.io/)
-* [Sketch](https://www.sketch.com/)
+* [Figma](https://www.figma.com/) - Connects everyone in the design process so teams can deliver better products, faster
+* [Ziplin](https://zeplin.io/) - Deliver on the promise of design
+* [Sketch](https://www.sketch.com/) - The home for your entire collaborative design process
 * [Adobe XD](https://www.adobe.com/products/xd.html)
 * [Adobe InDesign](https://www.adobe.com/products/indesign.html)
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
@@ -108,12 +108,12 @@
 ## 协作开发
 
 ### 代码协作
-* [GitHub](https://github.com/)
-* [GitLab](https://about.gitlab.com/)
-* [Gitee](https://gitee.com/)
-* [Coding](https://coding.net/)
-* [Gogs](https://gogs.io/)
-* [Gitea](https://gitea.io/)
+* [GitHub](https://github.com/) - Where the world builds software
+* [GitLab](https://about.gitlab.com/) - Accelerate modern DevOps
+* [Gitee](https://gitee.com/) - 云端软件开发协作平台，帮助开发者/团队/企业更好地管理代码，让软件研发更高效
+* [Coding](https://coding.net/) - 提供一站式开发协作工具，帮助研发团队快速落地敏捷开发与 DevOps 开发方式，实现研发效能升级
+* [Gogs](https://gogs.io/) - A painless self-hosted Git service
+* [Gitea](https://gitea.io/) - Git with a cup of tea
 
 ### 接口协作
 * [YApi](https://github.com/YMFE/yapi) - 一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
