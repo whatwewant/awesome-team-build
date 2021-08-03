@@ -9,7 +9,9 @@
   - [文件共享](#文件共享)
   - [密码共享](#密码共享)
   - [邮件服务](#邮件服务)
-- [工作空间](#工作空间)
+- [生产力](#生产力)
+  - [科学上网](#科学上网)
+  - [工作空间](#工作空间)
 - [项目协作](#项目协作)
 - [开发模式](#开发模式)
 - [产品需求](#需求分析)
@@ -54,7 +56,13 @@
 * [Outlook](https://outlook.live.com/) - Free personal email and calendar from Microsoft
 * [腾讯企业邮箱](https://exmail.qq.com/) - 唯一可以在微信中收发邮件的企业邮箱
 
-## 工作空间
+## 生产力
+
+### 科学上网
+* [Clash](https://github.com/yichengchen/clashX) - 科学上网客户端
+* [Surge](https://nssurge.com/) - 面向团队的科学上网客户端
+
+### 工作空间
 * [Notion](https://www.notion.so/) - All-in-one workspace
 
 ## 项目协作
