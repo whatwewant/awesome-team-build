@@ -8,6 +8,7 @@
 - [资源共享](#资源共享)
   - [文件共享](#文件共享)
   - [密码共享](#密码共享)
+  - [邮件服务](#邮件服务)
 - [工作空间](#工作空间)
 - [项目协作](#项目协作)
 - [开发模式](#开发模式)
@@ -47,6 +48,11 @@
 * [Lastpass](https://www.lastpass.com/) - PASSWORD MANAGEMENT FROM ANYWHERE
 * [Okta](https://www.okta.com/) - Identity for the Internet
 * [Bitwarden](https://bitwarden.com/) - The Most Trusted Open Source Password Manager for Business
+
+### 邮件服务
+* [Gmail](https://mail.google.com/) - Gmail is email that's intuitive, efficient, and useful
+* [Outlook](https://outlook.live.com/) - Free personal email and calendar from Microsoft
+* [腾讯企业邮箱](https://exmail.qq.com/) - 唯一可以在微信中收发邮件的企业邮箱
 
 ## 工作空间
 * [Notion](https://www.notion.so/) - All-in-one workspace
