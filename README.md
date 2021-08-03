@@ -1,5 +1,6 @@
-# awesome-team-build
-组件一个 MVP 团队的资源
+# awesome-mvp-team-building
+
+组建一个 MVP 团队的资源
 
 ## 目录
 - [日常沟通](#日常沟通)
