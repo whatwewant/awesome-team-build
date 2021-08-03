@@ -4,7 +4,7 @@
 
 ## 目录
 - [日常沟通](#日常沟通)
-- [远程会议](#远程会议)
+  - [远程会议](#远程会议)
 - [资源共享](#资源共享)
   - [文件共享](#文件共享)
   - [密码共享](#密码共享)
@@ -32,7 +32,7 @@
 * [钉钉](https://www.dingtalk.com/)
 * [Discord](https://discord.com/) - A place that makes it easy to talk every day and hang out more often
 
-## 远程会议
+### 远程会议
 * [飞书](https://www.feishu.cn/) - 一站式无缝办公协作，团队上下对齐目标，全面激活组织和个人
 * [企业微信](https://work.weixin.qq.com/) - 让每个企业都有自己的微信
 * [腾讯会议](https://meeting.tencent.com/) - 云会议，会开会
