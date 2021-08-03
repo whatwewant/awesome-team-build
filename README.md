@@ -41,7 +41,7 @@
 * [Bitwarden](https://bitwarden.com/) - The Most Trusted Open Source Password Manager for Business
 
 ## 工作空间
-* -
+* [Notion](https://www.notion.so/) - All-in-one workspace
 
 ## 项目协作
 * [Worktile](https://worktile.com/)
@@ -63,6 +63,7 @@
 ### 需求文档
 * [语雀](https://yuque.com/)
 * [石墨文档](https://shimo.im/)
+* [Notion](https://www.notion.so/) - All-in-one workspace
 
 ### 产品原型
 * [墨刀](https://modao.cc)
