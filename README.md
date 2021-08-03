@@ -3,6 +3,8 @@
 
 ## 目录
 - [日常沟通](#日常沟通)
+- [资源共享](#资源共享)
+- [工作空间](#工作空间)
 - [项目协作](#项目协作)
 - [开发模式](#开发模式)
 - [产品需求](#需求分析)
@@ -24,6 +26,20 @@
 * [飞书](https://www.feishu.cn/)
 * [企业微信](https://work.weixin.qq.com/)
 * [钉钉](https://www.dingtalk.com/)
+* [Discord](https://discord.com/) - A place that makes it easy to talk every day and hang out more often
+
+## 资源共享
+
+### 文件共享
+* [Telegram](https://web.telegram.org) - A cloud-based mobile and desktop messaging app with a focus on security and speed
+
+### 密码共享
+* [Lastpass](https://www.lastpass.com/) - PASSWORD MANAGEMENT FROM ANYWHERE
+* [Okta](https://www.okta.com/) - Identity for the Internet
+* [Bitwarden](https://bitwarden.com/) - The Most Trusted Open Source Password Manager for Business
+
+## 工作空间
+* -
 
 ## 项目协作
 * [Worktile](https://worktile.com/)
