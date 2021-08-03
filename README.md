@@ -4,6 +4,7 @@
 
 ## 目录
 - [日常沟通](#日常沟通)
+- [远程会议](#远程会议)
 - [资源共享](#资源共享)
   - [文件共享](#文件共享)
   - [密码共享](#密码共享)
@@ -26,10 +27,16 @@
 
 ## 日常沟通
 * [Slack](https://slack.com/)
-* [飞书](https://www.feishu.cn/)
-* [企业微信](https://work.weixin.qq.com/)
+* [飞书](https://www.feishu.cn/) - 一站式无缝办公协作，团队上下对齐目标，全面激活组织和个人
+* [企业微信](https://work.weixin.qq.com/) - 让每个企业都有自己的微信
 * [钉钉](https://www.dingtalk.com/)
 * [Discord](https://discord.com/) - A place that makes it easy to talk every day and hang out more often
+
+## 远程会议
+* [飞书](https://www.feishu.cn/) - 一站式无缝办公协作，团队上下对齐目标，全面激活组织和个人
+* [企业微信](https://work.weixin.qq.com/) - 让每个企业都有自己的微信
+* [腾讯会议](https://meeting.tencent.com/) - 云会议，会开会
+* [Zoom](https://zoom.us/) - Use the apps you love, right in your meetings
 
 ## 资源共享
 
@@ -154,6 +161,16 @@
 * [神策数据](https://www.sensorsdata.cn/auto) - 大数据分析和营销科技服务商，全场景多维度数据分析，全通道的精准用户触达，助力企业实现全流程营销数字化
 * [Tableau](https://www.tableau.com/) - visual analytics software for business intelligence. See and understand any data with Tableau
 
+### 智能客服
+* [Zendesk](https://www.zendesk.com/) - Champions of customer service
+* [LiveChat](https://www.livechat.com/) - Grow your business with LiveChat
+* [Intercom](https://www.intercom.com/) - The Business Messenger you and your customers will love
+* [阿里小蜜](https://www.alixiaomi.com/) - 连接商业与智能，专注未来与服务
+* [美恰](https://meiqia.com/) - 在线客服 连接一切客户
+* [网易七鱼](https://qiyukf.com/) - 服务营销一体化解决方案
+* [Udesk](https://www.udesk.cn/) - AI驱动的客户服务、CRM和客户体验解决方案提供商
+
 ### 客户关系管理
+* [Zendesk](https://www.zendesk.com/) - Champions of customer service
 
 ### 问题反馈
