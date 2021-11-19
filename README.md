@@ -1,4 +1,4 @@
-# awesome-mvp-team-building
+# Awesome Team Build
 
 组建一个 MVP 团队的资源
 
