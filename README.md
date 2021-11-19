@@ -30,11 +30,12 @@
   - [问题反馈](#问题反馈)
 
 ## 日常沟通
-* [Slack](https://slack.com/)
+* [Slack](https://slack.com/) - Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email.
 * [飞书](https://www.feishu.cn/) - 一站式无缝办公协作，团队上下对齐目标，全面激活组织和个人
 * [企业微信](https://work.weixin.qq.com/) - 让每个企业都有自己的微信
 * [钉钉](https://www.dingtalk.com/) - 工作简单高效更安全，教育更简单成长更快乐
 * [Discord](https://discord.com/) - A place that makes it easy to talk every day and hang out more often
+* [Telegram](https://telegram.org/) - 以隐私安全为核心的沟通工具
 
 ### 远程会议
 * [飞书](https://www.feishu.cn/) - 一站式无缝办公协作，团队上下对齐目标，全面激活组织和个人
