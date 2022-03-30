@@ -67,7 +67,7 @@
 ### 科学上网
 * [Clash](https://github.com/yichengchen/clashX) - 个人科学上网客户端
 * [Surge](https://nssurge.com/) - 面向团队的科学上网客户端
-* [ClashZ](https://github.com/yichengchen/clashZ) - 面向团队的科学上网客户端，基于 Clash
+* [ClashX](https://github.com/yichengchen/clashX) - Clash MacOS 客户端
 
 ### 工作空间
 * [Notion](https://www.notion.so/) - All-in-one workspace
