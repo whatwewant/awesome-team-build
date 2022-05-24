@@ -23,6 +23,13 @@
   - [设计工具](#设计工具)
   - [体验设计](#体验设计)
 - [协作开发](#协作开发)
+- [DevOps](#DevOps)
+  - [堡垒机](#堡垒机)
+  - [CI/CD](#CI/CD)
+  - [应用监控](#应用监控)
+    - [健康监控](#健康监控)
+    - [异常监控](#异常监控)
+    - [服务监控](#服务监控)
 - [产品测试](#产品测试)
 - [运营分析](#运营分析)
   - [数据分析](#数据分析)
@@ -46,31 +53,34 @@
 ### 问题调研
 * [金数据](https://jinshuju.net/) - 人人可用的数据收集与管理平台
 * [问卷星](https://www.wjx.cn/) - 不止问卷调查 / 在线考试
+* [飞书](https://www.feishu.cn/) - 一站式无缝办公协作，团队上下对齐目标，全面激活组织和个人
 
 ## 资源共享
 
 ### 文件共享
-* [Telegram](https://web.telegram.org) - A cloud-based mobile and desktop messaging app with a focus on security and speed
+* [飞书](https://www.feishu.cn/) - 一站式无缝办公协作，团队上下对齐目标，全面激活组织和个人
 
 ### 密码共享
+* [Bitwarden](https://bitwarden.com/) - The Most Trusted Open Source Password Manager for Business
 * [Lastpass](https://www.lastpass.com/) - PASSWORD MANAGEMENT FROM ANYWHERE
 * [Okta](https://www.okta.com/) - Identity for the Internet
-* [Bitwarden](https://bitwarden.com/) - The Most Trusted Open Source Password Manager for Business
 
 ### 邮件服务
 * [Gmail](https://mail.google.com/) - Gmail is email that's intuitive, efficient, and useful
 * [Outlook](https://outlook.live.com/) - Free personal email and calendar from Microsoft
 * [腾讯企业邮箱](https://exmail.qq.com/) - 唯一可以在微信中收发邮件的企业邮箱
+* [飞书](https://www.feishu.cn/) - 一站式无缝办公协作，团队上下对齐目标，全面激活组织和个人
 
 ## 生产力
 
 ### 科学上网
-* [Clash](https://github.com/yichengchen/clashX) - 个人科学上网客户端
+* [ClashZ](https://github.com/whatwewant/clashZ) - 面向团队的企业级科学上网客户端
 * [Surge](https://nssurge.com/) - 面向团队的科学上网客户端
 * [ClashX](https://github.com/yichengchen/clashX) - Clash MacOS 客户端
 
 ### 工作空间
 * [Notion](https://www.notion.so/) - All-in-one workspace
+* [Workona](https://workona.com/) - Flexible workspaces for any project
 
 ## 项目协作
 * [Trello](https://trello.com/) - Trello helps teams move work forward
@@ -80,6 +90,7 @@
 * [Conference](https://www.atlassian.com/software/confluence) - Your remote-friendly team workspace where knowledge and collaboration meet
 * [Teambition](https://www.teambition.com/) - 轻松记录要做的事，并与伙伴实时同步进展
 * [Ones](https://ones.ai/) - 企业级研发管理工具
+
 
 ## 开发模式
 * 敏捷开发
@@ -142,7 +153,7 @@
 
 ## DevOps
 
-### 运维管理
+### 堡垒机
 * [Spug](https://spug.dev/) - 灵活、强大、功能全面的开源运维平台
 * [JumpServer](https://www.jumpserver.org/) - 符合 4A 的专业运维安全审计系统，开源堡垒机
 * [KubeSphere](https://kubesphere.io/zh/) - 面向云原生应用的容器混合云
@@ -157,9 +168,10 @@
 
 ### 应用监控
 
-#### 在线监控
+#### 健康监控
 * [UptimeRobot](https://uptimerobot.com/) - The world's leading uptime monitoring service
 * [Upptime](https://upptime.js.org/) - GitHub-powered open-source uptime monitor and status page
+* [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 #### 异常监控
 * [Sentry](https://sentry.io/) - 开源的异常监控系统，支持持多种语言，同时支持性能监控
