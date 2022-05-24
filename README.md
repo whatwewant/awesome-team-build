@@ -161,10 +161,11 @@
 
 ### CI/CD
 * [GitHub Action](https://docs.github.com/cn/actions) - 帮助您自动完成软件开发周期内的任务
-* [Travis CI](https://travis-ci.org/) - Test and Deploy with Confidence
-* [Circle CI](https://circleci.com/) - Automate your development process with continuous integration in our cloud or on your own infrastructure
+* [GitLab CI](https://docs.gitlab.com/ee/ci/) - a tool for software development using the continuous methodologies
 * [Drone](https://www.drone.io/) - Automate Software Build and Testing
 * [Jinkins](https://www.jenkins.io/zh/) - 开源CI&CD软件领导者， 提供超过1000个插件来支持构建、部署、自动化， 满足任何项目的需要
+* [Travis CI](https://travis-ci.org/) - Test and Deploy with Confidence
+* [Circle CI](https://circleci.com/) - Automate your development process with continuous integration in our cloud or on your own infrastructure
 
 ### 应用监控
 
