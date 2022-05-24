@@ -195,6 +195,7 @@
 * [GrowingIO](https://www.growingio.com/) - 一站式数据增长引擎整体方案服务商，数据+智能+营销，赋能商业决策，实现业绩增长
 * [神策数据](https://www.sensorsdata.cn/auto) - 大数据分析和营销科技服务商，全场景多维度数据分析，全通道的精准用户触达，助力企业实现全流程营销数字化
 * [Tableau](https://www.tableau.com/) - visual analytics software for business intelligence. See and understand any data with Tableau
+* [ThinkingData](https://www.thinkingdata.cn/) - 专注游戏数据分析，从数据意识、分析方法、分析工具三个层面帮助客户用好数据
 
 ### 智能客服
 * [Zendesk](https://www.zendesk.com/) - Champions of customer service
