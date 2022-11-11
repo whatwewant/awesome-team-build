@@ -142,6 +142,16 @@
 * [Gogs](https://gogs.io/) - A painless self-hosted Git service
 * [Gitea](https://gitea.io/) - Git with a cup of tea
 
+### WebIDE
+* [CodeSandbox](https://codesandbox.io/) - 一个传统的 WebIDE，支持多人协作、代码分享
+* [CodeServer](https://github.com/coder/code-server) - 将 VSCode 搬到浏览器，支持私有部署
+* [GitPod](https://www.gitpod.io/) - 将 VSCode 搬到浏览器的又一个方案，支持私有部署
+* [Theia](https://github.com/eclipse-theia/theia) - 将 VSCode 搬到浏览器的又一个方案，支持私有部署
+* [GitHub CodeSpace](https://github.com/features/codespaces) - 将 VSCode 搬到浏览器的官方实现，结合微软 GitHub + Azure DevOps，好用（体验）但危险（绑架）
+* [TeamCode](https://www.teamcode.com/) - 一个国内的 WebIDE 平台，目前处于早期阶段，功能尚未完善
+* [DevStudio](https://www.aliyun.com/product/yunxiao/devstudio) - 阿里云 WebIDE，预置开发环境，智能编码能力，可快速地编辑、调试、运行、部署云端代码，类似 GitHub CodeSpace
+* [CloudStudio](https://cloudstudio.net/) - 腾讯云 WebIDE，将 VSCode 搬到浏览器，支持协作
+
 ### 接口协作
 * [YApi](https://github.com/YMFE/yapi) - 一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 * [Apiary](https://apiary.io/) - Powerful API Design Stack. Built for Developers
